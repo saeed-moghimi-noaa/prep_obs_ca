@@ -1,4 +1,4 @@
-# Date and observation collection for COASTAL Act and HurrSupp projects
+# Date and observation collector for COASTAL Act and HurrSupp projects
 
 ## Collect observations from NDBC and CO-OPS
 #### Generate csv data files
