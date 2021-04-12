@@ -1,6 +1,6 @@
-# prep_obs_ca
+# Date and observation collection for COASTAL Act and HurrSupp projects
 
-## Read obs from NDBC and Co-opc
+## Collect observations from NDBC and CO-OPS
 #### Generate csv data files
 #### Functions to write and read the data
 #### Observations will be chosen based on the hurricane track to avoid more than neccessary download.
@@ -8,6 +8,8 @@
 ## Interact with the data:
 #### https://coastaloceanmodels.noaa.gov/coupling/04_hurricane_explorer.html
 #### https://coastaloceanmodels.noaa.gov/coupling/data/hurr_exp/z_2017_irma_____storm.html
+
+
 
 
 ## Contact:
