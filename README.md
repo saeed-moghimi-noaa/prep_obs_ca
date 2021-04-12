@@ -3,7 +3,7 @@
 ## Collect observations from NDBC and CO-OPS
 #### Generate csv data files
 #### Functions to write and read the data
-#### Observations will be chosen based on the hurricane track to avoid more than neccessary download.
+#### Observations will be chosen based on the hurricane track to avoid more than necessary  download.
 
 ## Interact with the data:
 #### https://coastaloceanmodels.noaa.gov/coupling/04_hurricane_explorer.html
